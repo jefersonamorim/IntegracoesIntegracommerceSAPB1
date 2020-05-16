@@ -1,0 +1,13 @@
+C:\Jeferson\IntegraCommerce\Projeto\Integracommerce\bin\Release\Integracommerce.exe.config
+C:\Jeferson\IntegraCommerce\Projeto\Integracommerce\bin\Release\Integracommerce.exe
+C:\Jeferson\IntegraCommerce\Projeto\Integracommerce\bin\Release\Integracommerce.pdb
+C:\Jeferson\IntegraCommerce\Projeto\Integracommerce\bin\Release\Newtonsoft.Json.dll
+C:\Jeferson\IntegraCommerce\Projeto\Integracommerce\bin\Release\SAPBusinessOneSDK.dll
+C:\Jeferson\IntegraCommerce\Projeto\Integracommerce\bin\Release\Newtonsoft.Json.xml
+C:\Jeferson\IntegraCommerce\Projeto\Integracommerce\obj\Release\Integracommerce.csprojAssemblyReference.cache
+C:\Jeferson\IntegraCommerce\Projeto\Integracommerce\obj\Release\Integracommerce.ProjectInstaller.resources
+C:\Jeferson\IntegraCommerce\Projeto\Integracommerce\obj\Release\Integracommerce.csproj.GenerateResource.cache
+C:\Jeferson\IntegraCommerce\Projeto\Integracommerce\obj\Release\Integracommerce.csproj.CoreCompileInputs.cache
+C:\Jeferson\IntegraCommerce\Projeto\Integracommerce\obj\Release\Integracommerce.csproj.CopyComplete
+C:\Jeferson\IntegraCommerce\Projeto\Integracommerce\obj\Release\Integracommerce.exe
+C:\Jeferson\IntegraCommerce\Projeto\Integracommerce\obj\Release\Integracommerce.pdb
